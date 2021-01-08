@@ -6,7 +6,6 @@ st.write("""
 # Getting Stock Price
 
 You'll find below the stock closing price and volume of TESLA.
-Created by Chris kagabe (with the help of freeCodeCamp.org)
 """)
 
 tickerSymbol = 'TSLA'
@@ -19,5 +18,5 @@ st.line_chart(tickerDf.Close)
 st.line_chart(tickerDf.Volume)
 
 st.write("""
-Created by Chris kagabe (with the help of freeCodeCamp.org)
+##### Created by Chris kagabe (credit: freeCodeCamp.org and DataProfessor)
 """)
