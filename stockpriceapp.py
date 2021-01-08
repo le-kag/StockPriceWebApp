@@ -6,7 +6,7 @@ st.write("""
 # Getting Stock Price
 
 You'll find below the stock closing price and volume of TESLA.
-
+## Created by Chris kagabe (with the help of freeCodeCamp.org)
 """)
 
 tickerSymbol = 'TSLA'
