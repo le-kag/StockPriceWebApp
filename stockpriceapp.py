@@ -5,7 +5,7 @@ import pandas as pd
 st.write("""
 # Getting Stock Price
 
-You'll find below the stock closing price and volume of TESLA.
+You'll find below the stock closing price (in USD) and volume of TESLA.
 """)
 
 tickerSymbol = 'TSLA'
