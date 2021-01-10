@@ -72,7 +72,7 @@ tsla_historical = tsla.history(period="max", interval="1wk")
 st.dataframe(tsla_historical)
 
 st.write("""
-### Thank you for reading this short report of mine. - Chris Kagabe
+### Thank you for reading! - Chris Kagabe
 
 **Disclaimer: This content is for educational purposes only. The Information should not be construed as investment/trading advice and is not meant to be a solicitation or recommendation to buy, sell, or hold any securities mentioned. **
 
