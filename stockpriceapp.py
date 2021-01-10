@@ -35,9 +35,9 @@ A high P/E does not necessarily mean a stock is overvalued." - *Investopedia*
 
 """)
 import yahoo_fin.stock_info as si
-msft_data = si.get_quote_table("TSLA")
+tsla_data = si.get_quote_table("TSLA")
 
-msft_data
+tsla_data
 
 #tickers_list = ["tsla", "aapl", "goog"] # example list
 #tickers_data= {} # empty dictionary
