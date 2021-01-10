@@ -3,7 +3,7 @@ import streamlit as st
 import pandas as pd
 
 st.write("""
-# Buying Tesla Stock Price?
+# Buying TSLA Stock?
 
 ### You'll find below the stock closing price and volume of TESLA.
 
