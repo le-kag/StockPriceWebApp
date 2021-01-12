@@ -28,10 +28,12 @@ st.write("""
 tsla.info['forwardPE']
 
 st.write("""
-### As we can see below, the P/E ratio is over 1600 currently.
+### As we can see below, the P/E ratio was over 1600 currently by the time I wrote the code (01/10/2021).
 This shows that investors are willing to pay a higher share price today because of growth expectations in the future.
 "The high multiple indicates that investors expect higher growth from the company compared to the overall market.
 A high P/E does not necessarily mean a stock is overvalued." - *Investopedia*
+
+**If the P/E ratio keeps on decreasing, this would mean that the stock future value is becoming more and more uncertain. A potential decline can happen.**
 
 """)
 import yahoo_fin.stock_info as si
